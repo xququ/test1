@@ -7,7 +7,7 @@ public class TestClass {
 		System.out.println("This is the original Test 1");
 		System.out.println("Helo There... Testing GitHub1");
 		System.out.println("From Test 2");
-		System.out.println("From Test 33");
+		System.out.println("From Test 34");
 	}
 
 }
