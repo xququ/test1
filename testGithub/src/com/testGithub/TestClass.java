@@ -8,10 +8,7 @@ public class TestClass {
 		System.out.println("Helo There... Testing GitHub1");
 		System.out.println("From Test 2");
 		System.out.println("From Test 4");
-<<<<<<< HEAD
 		System.out.println("From Test 5");
-=======
->>>>>>> branch 'master' of https://github.com/xququ/test1.git
 	}
 
 }
